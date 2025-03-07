@@ -84,8 +84,7 @@
   <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg" height="40" alt="groovy logo" />
   <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-origi￼
-nal.svg"  height="40" alt="arduino logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"  height="40" alt="arduino logo" />
   <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg"  height="40" alt="nginx logo"  />
   <img width="12" />        
