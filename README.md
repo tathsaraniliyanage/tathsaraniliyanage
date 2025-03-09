@@ -101,7 +101,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg"   height="40" alt="xml logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg"    height="40" alt="axios logo"/>
-  <img width="12" />                
+  <img width="12" /> 
+<!--   <img src="https://img.icons8.com/?size=100&id=7ImWFDcPfSlz&format=png&color=00000"   height="40" alt="expo logo"/>
+  <img width="12" />  -->
+ 
            
           
 </div>
