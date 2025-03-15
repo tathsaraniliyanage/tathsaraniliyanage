@@ -105,6 +105,9 @@
   <img width="12" /> 
 <!--   <img src="https://img.icons8.com/?size=100&id=7ImWFDcPfSlz&format=png&color=00000"   height="40" alt="expo logo"/>
   <img width="12" />  -->
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"    height="40" alt="angular logo"/>
+ <img width="12" />
+ 
  
            
           
