@@ -12,6 +12,18 @@
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
 
+
+<h3 align="center">A passionate fullstack developer 👩‍💻 from Sri Lanka</h3>
+<br>
+
+<div align="center">
+  
+ 🌱 I’m currently learning at **IJSE - Institute of Software Engineering**
+  
+📫 How to reach me **prabodhathathsarani28@gmail.com**
+
+ </div>
+ 
 <h1 align="left">Hi I'm Prabodha</h1>
 
 ###
