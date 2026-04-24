@@ -13,7 +13,7 @@
 </p>
 
 
-<h3 align="center">A passionate Quality Assurance Engineer 👩‍💻 from Sri Lanka</h3>
+<h3 align="center">A passionate Software Quality Assurance Engineer 👩‍💻 from Sri Lanka</h3>
 <br>
 
 <div align="center">
